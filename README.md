@@ -2,8 +2,12 @@
 
 Alumnos:
 
-Manuel Ignacio Medina
-Renbin Chen
-Clodoaldo Polo
-Irene Gil
-Santiago Díaz
+- Manuel Ignacio Medina
+
+- Renbin Chen
+
+- Clodoaldo Polo
+
+- Irene Gil
+
+- Santiago Díaz
